@@ -1,0 +1,27 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inna-Mykytiuk/goit-typescript-hw-01.git"
+  },
+  "homepage": "https://github.com/Inna-Mykytiuk/goit-typescript-hw-01#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inna-Mykytiuk/goit-typescript-hw-01/issues"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  },
+  "description": ""
+}
